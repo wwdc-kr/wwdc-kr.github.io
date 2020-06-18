@@ -1,7 +1,17 @@
+body{
+    background-color: black;
+}
+
 .header{
     text-align: center;
+    color: white;
     font-family: SF Display;
-    background-image: url("/asset/large_2x.jpg");
+    background-image: url("asset/wwdc_bg.jpg");
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 200%;
+    background-position: top;
 }
 
 /** Bold */
