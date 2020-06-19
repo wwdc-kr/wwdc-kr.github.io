@@ -2,20 +2,28 @@ body{
     background-color: black;
 }
 
+swift_color{
+  color: coral;
+}
+
+h1{
+  margin-top: 0.01em;
+  margin-bottom: 0.01em;
+}
+
 /* Header */
 .header{
     text-align: center;
     color: white;
-    margin: 0;
     font-family: SF Display;
-    padding: 0;
 }
 
 /* wwdc20_header_div */
 .wwdc20_header_div{
   background-image: url("asset/header_bg.jpg");
-  background-position: top;
-  height: 76em;
+  background-position: bottom;
+  height: 40em;
+  background-size: cover;
 }
 
 /** Bold */
