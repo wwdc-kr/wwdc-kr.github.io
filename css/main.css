@@ -6,6 +6,10 @@ swift_color{
   color: coral;
 }
 
+ios_color{
+  color: whitesmoke;
+}
+
 h1{
   margin-top: 0.01em;
   margin-bottom: 0.01em;
@@ -33,20 +37,6 @@ h1{
     src: url("font/SF-Pro-Display-Bold.otf");
   }
   
-  /** Heavy */
-  @font-face {
-    font-family: "SF Display";
-    font-weight: 800;
-    src: url("font/SF-Pro-Display-Heavy.otf");
-  }
-  
-  /** Light */
-  @font-face {
-    font-family: "SF Display";
-    font-weight: 200;
-    src: url("font/SF-Pro-Display-Light.otf");
-  }
-  
   /** Medium */
   @font-face {
     font-family: "SF Display";
@@ -67,18 +57,3 @@ h1{
     font-weight: 600;
     src: url("font/SF-Pro-Display-Semibold.otf");
   }
-  
-  /** Thin */
-  @font-face {
-    font-family: "SF Display";
-    font-weight: 300;
-    src: url("font/SF-Pro-Display-Thin.otf");
-  }
-  
-  /** Ultralight */
-  @font-face {
-    font-family: "SF Display";
-    font-weight: 100;
-    src: url("font/SF-Pro-Display-Ultralight.otf");
-  }
-  
