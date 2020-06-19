@@ -2,16 +2,20 @@ body{
     background-color: black;
 }
 
+/* Header */
 .header{
     text-align: center;
     color: white;
+    margin: 0;
     font-family: SF Display;
-    background-image: url("asset/header_bg.jpg");
-    height: 1200px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 200%;
-    background-position: top;
+    padding: 0;
+}
+
+/* wwdc20_header_div */
+.wwdc20_header_div{
+  background-image: url("asset/header_bg.jpg");
+  background-position: top;
+  height: 76em;
 }
 
 /** Bold */
