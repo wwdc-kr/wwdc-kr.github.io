@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: white;
+    font-family: SF Display;
 }
 
 swift_color{
@@ -19,7 +20,6 @@ h1{
 /* Header */
 .header{
     text-align: center;
-    font-family: SF Display;
 }
 
 /* wwdc20_header_div */
