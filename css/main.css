@@ -41,9 +41,26 @@ h1{
   background-size: contain;
 }
 
+.sungjin_work{
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: contain;
+}
+
 .jaesung{
   height: 100%;
   background-image:url(asset/jaesung.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+.jaesung_work{
+  height: 100%;
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
@@ -58,10 +75,24 @@ h1{
   background-size: contain;
   background-attachment: fixed;
 }
+.minhyuk_work{
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  background-attachment: fixed;
+}
 
 .robert{
   height: 100%;
   background-image:url(asset/Robert.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  background-attachment: fixed;
+}
+.robert_work{
+  height: 100%;
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
@@ -76,10 +107,24 @@ h1{
   background-position: top center;
   background-attachment: fixed;
 }
+.minji_work{
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+  background-attachment: fixed;
+}
 
 .bummo{
   height: 100%;
   background-image:url(asset/bummo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top center;
+  background-attachment: fixed;
+}
+.bummo_work{
+  height: 100%;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top center;
