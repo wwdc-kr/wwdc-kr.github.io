@@ -1,10 +1,10 @@
 body{
-    color: white;
     font-family: SF Display;
 }
 
 body.scholar{
   background-color: black;
+  color: white;
 }
 
 swift_color{
